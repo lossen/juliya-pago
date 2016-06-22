@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+assets/
+public_html/assets/music
+.DS_Store
+.idea/
+
+
+
